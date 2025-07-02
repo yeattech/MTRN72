@@ -1,4 +1,4 @@
-package com.mtrn72;
+package my.test.rn72;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

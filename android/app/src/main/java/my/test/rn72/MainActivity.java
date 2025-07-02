@@ -1,4 +1,4 @@
-package com.mtrn72;
+package my.test.rn72;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "MTRN72";
+    return "MT RN72";
   }
 
   /**
